@@ -1,0 +1,6 @@
+run --> regedit
+goto->>>>>  Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens
+
+right click then select export and put the file to ->> AI_voices
+edit the file by remving _onecore
+then double click it. Bingo!!!
